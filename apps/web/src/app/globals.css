@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Terapkan font Tajawal untuk seluruh body */
+body {
+  @apply font-tajawal;
+}
+
+.header {
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
