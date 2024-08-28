@@ -100,7 +100,7 @@ export default function AboutUs() {
                         </h2>
                         <br />
                         <p className='text-justify text-sm md:text-base text-[#4a4a4a]'>
-                        As a company dedicated to providing the best service, PT Dapoer Poesat Noesantara Group offers a range of premier services designed to meet the needs and expectations of our clients. With a strong focus on quality, innovation, and customer satisfaction, we ensure that every service we provide supports your business's success and growth. Here are the main services we offer:
+                        As a company dedicated to providing the best service, PT Dapoer Poesat Noesantara Group offers a range of premier services designed to meet the needs and expectations of our clients. With a strong focus on quality, innovation, and customer satisfaction, we ensure that every service we provide supports your business&apos;s success and growth. Here are the main services we offer:
                         </p>
                     </div>
                 </section>
@@ -211,7 +211,7 @@ export default function AboutUs() {
                 <section className='py-5 px-10 rounded-lg shadow-md bg-[#4a4a4a] font-tajawal text-center'
                     style={{ backgroundImage: 'url(/images/2backgrounddpng.png)', backgroundSize: 'auto', backgroundPosition: 'center' }}>
                     <p className='text-sm md:text-base text-[#4a4a4a]'>
-                        For a complete overview of our portfolio and to explore all the projects we've successfully delivered, please visit our dedicated portfolio page. <a href="http://localhost:3000/product" className='text-blue-400 underline hover:text-blue-500'>Click here</a> to discover the full spectrum of our expertise and see how PT Dapoer Poesat Noesantara Group has consistently delivered excellence across various industries.
+                        For a complete overview of our portfolio and to explore all the projects we&apos;ve successfully delivered, please visit our dedicated portfolio page. <a href="http://localhost:3000/product" className='text-blue-400 underline hover:text-blue-500'>Click here</a> to discover the full spectrum of our expertise and see how PT Dapoer Poesat Noesantara Group has consistently delivered excellence across various industries.
                     </p>
                 </section>
             </section>
