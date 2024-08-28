@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="102e2e31-ad85-4df9-ab4f-e4cc559e3b9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/apps" beforeDir="false" afterPath="$PROJECT_DIR$/apps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/connection/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/authController/authController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/changePasswordController/changePasswordController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/contactController/contactController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/documentController/documentController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/loginController/loginController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/menuProfileController/menuProfileController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/messageController/messageController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/positionController/positionController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/productController/productController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/profileController/profileController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/profileImageController/profileImageController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/registerController/registerController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/sample.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/controllers/verifyEmailController/verifyEmailController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/helper/createToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/helper/hashPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/helper/transporter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/middleware/authMiddleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/middleware/checkUploadsDir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/middleware/validation/checkLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/middleware/validation/loginValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/prisma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/authRouter/authRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/changePasswordRouter/changePasswordRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/contactRouter/contactRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/documentRouter/documentRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/loginRouter/loginRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/menuProfileRouter/menuProfileRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/messageRouter/messageRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/positionRouter/positionRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/productRouter/productRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/profileImageRouter/profileImageRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/profileRouter/profileRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/registerRouter/registerRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/sample.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/dist/routers/verifyEmailRouter/verifyEmailRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/prisma/migrations/20231228030315_sample/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/prisma/migrations/20231228030315_sample/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/prisma/seed.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/prisma/seed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/connection/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/connection/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/authController/authController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/authController/authController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/changePasswordController/changePasswordController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/changePasswordController/changePasswordController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/contactController/contactController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/contactController/contactController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/documentController/documentController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/documentController/documentController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/loginController/loginController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/loginController/loginController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/menuProfileController/menuProfileController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/menuProfileController/menuProfileController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/messageController/messageController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/messageController/messageController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/positionController/positionController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/positionController/positionController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/productController/productController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/productController/productController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/profileController/profileController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/profileController/profileController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/profileImageController/profileImageController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/profileImageController/profileImageController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/registerController/registerController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/registerController/registerController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/sample.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/sample.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/controllers/verifyEmailController/verifyEmailController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/controllers/verifyEmailController/verifyEmailController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/helper/createToken.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/helper/createToken.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/helper/hashPassword.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/helper/hashPassword.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/helper/transporter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/helper/transporter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/middleware/authMiddleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/middleware/authMiddleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/middleware/checkUploadsDir.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/middleware/checkUploadsDir.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/middleware/validation/checkLogin.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/middleware/validation/checkLogin.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/middleware/validation/loginValidation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/middleware/validation/loginValidation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/prisma.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/prisma.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/authRouter/authRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/authRouter/authRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/changePasswordRouter/changePasswordRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/changePasswordRouter/changePasswordRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/contactRouter/contactRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/contactRouter/contactRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/documentRouter/documentRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/documentRouter/documentRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/loginRouter/loginRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/loginRouter/loginRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/menuProfileRouter/menuProfileRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/menuProfileRouter/menuProfileRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/messageRouter/messageRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/messageRouter/messageRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/positionRouter/positionRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/positionRouter/positionRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/productRouter/productRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/productRouter/productRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/profileImageRouter/profileImageRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/profileImageRouter/profileImageRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/profileRouter/profileRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/profileRouter/profileRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/registerRouter/registerRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/registerRouter/registerRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/sample.router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/sample.router.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/routers/verifyEmailRouter/verifyEmailRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/routers/verifyEmailRouter/verifyEmailRouter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/types/express.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/types/express.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/tsconfig.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/tsconfig.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/turbo.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/turbo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/.turbo/turbo-build.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/cypress.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/cypress.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/cypress/fixtures/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/cypress/support/commands.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/cypress/support/commands.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/cypress/support/component-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/cypress/support/component-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/cypress/support/component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/cypress/support/component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/public/images/dapoerkimia/H2SO4 (asam sulfat).webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/aboutus/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/aboutus/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/confirmRegisterPassword/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/confirmRegisterPassword/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/contactus/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/contactus/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/context/AuthContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/context/AuthContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/document/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/document/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/features/confirmPasswordSchema..ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/features/confirmPasswordSchema..ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/features/contactSchema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/features/contactSchema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/features/documentSchemas.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/features/documentSchemas.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/features/loginSchema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/features/loginSchema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/features/registerSchema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/features/registerSchema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/menuprofile/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/menuprofile/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/menusetting/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/menusetting/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/page.spec.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/page.spec.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/product/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/product/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/providers/tanstackProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/providers/tanstackProvider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/register/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/register/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/services/dapoerchemical/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/services/dapoerchemical/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/services/dapoerparfum/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/services/dapoerparfum/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/services/dapoerphotography/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/services/dapoerphotography/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/services/dapoertelekomunikasi/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/services/dapoertelekomunikasi/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/services/dapoerwebsite/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/services/dapoerwebsite/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/viewmessage/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/viewmessage/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/pages/_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2lH69ZkLgiztxbd7691Quhb85pg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/avows/Nice/dapoer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="102e2e31-ad85-4df9-ab4f-e4cc559e3b9e" name="Changes" comment="" />
+      <created>1724824504749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724824504749</updated>
+      <workItem from="1724824505824" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
