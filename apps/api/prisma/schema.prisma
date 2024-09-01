@@ -18,19 +18,21 @@ enum Posisi {
 }
 
 model Pengguna {
-  id            Int            @id @default(autoincrement())
-  namaDepan     String
-  namaBelakang  String
-  NIK           String         @unique
-  email         String         @unique
-  tanggalLahir  DateTime
-  posisi        Posisi
-  kataSandi     String
-  nomorTelepon  String?        // Nomor telepon opsional
-  alamat        String?        // Alamat opsional
-  dibuatPada    DateTime       @default(now())
+  id             Int           @id @default(autoincrement())
+  namaDepan      String
+  namaBelakang   String
+  NIK            String        @unique
+  email          String        @unique
+  tanggalLahir   DateTime
+  posisi         Posisi
+  kataSandi      String
+  nomorTelepon   String? // Nomor telepon opsional
+  alamat         String? // Alamat opsional
+  dibuatPada     DateTime      @default(now())
   diperbaruiPada DateTime      @updatedAt
-  profileImage  ProfileImage?  // Relasi opsional ke model ProfileImage
+  profileImage   ProfileImage? // Relasi opsional ke model ProfileImage
+
+  @@map("pengguna")
 }
 
 model Product {
@@ -39,6 +41,8 @@ model Product {
   code      String     @unique
   pesan     Pesan[]
   documents Document[]
+
+  @@map("product")
 }
 
 model Pesan {
@@ -46,25 +50,29 @@ model Pesan {
   name        String
   email       String
   phone       String
-  productName String   // Nama produk yang dipilih
+  productName String // Nama produk yang dipilih
   message     String
   createdAt   DateTime @default(now())
   productId   Int
   product     Product  @relation(fields: [productId], references: [id])
+
+  @@map("pesan")
 }
 
 model Document {
-  id         Int        @id @default(autoincrement())
-  name       String
-  type       String
-  size       Int
-  url        String
-  category   String
-  createdAt  DateTime   @default(now())
-  productId  Int?
-  product    Product?   @relation(fields: [productId], references: [id])
-  notadinas  Notadinas? @relation(fields: [notadinasId], references: [id])
+  id          Int        @id @default(autoincrement())
+  name        String
+  type        String
+  size        Int
+  url         String
+  category    String
+  createdAt   DateTime   @default(now())
+  productId   Int?
+  product     Product?   @relation(fields: [productId], references: [id])
+  notadinas   Notadinas? @relation(fields: [notadinasId], references: [id])
   notadinasId Int?
+
+  @@map("document")
 }
 
 model Notadinas {
@@ -72,6 +80,8 @@ model Notadinas {
   name      String
   code      String     @unique
   documents Document[]
+
+  @@map("notadinas")
 }
 
 model ProfileImage {
@@ -81,6 +91,8 @@ model ProfileImage {
   createdAt  DateTime @default(now())
   penggunaId Int      @unique
   pengguna   Pengguna @relation(fields: [penggunaId], references: [id])
+
+  @@map("profileImage")
 }
 
 model Sample {
