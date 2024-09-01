@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "DISABLE_ESLINT_PLUGIN=true next build --experimental-debug-memory-usage",
+    "build": "next build",
     "serve": "next start -p $PORT",
     "lint": "next lint",
     "test": "npx cypress verify & cypress run --component"
