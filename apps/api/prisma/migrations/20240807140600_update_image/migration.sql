@@ -11,7 +11,7 @@ ALTER TABLE `image` DROP FOREIGN KEY `Image_productId_fkey`;
 DROP TABLE `image`;
 
 -- CreateTable
-CREATE TABLE `ProfileImage` (
+CREATE TABLE `profileImage` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
     `name` VARCHAR(191) NOT NULL,
     `url` VARCHAR(191) NOT NULL,
@@ -23,4 +23,4 @@ CREATE TABLE `ProfileImage` (
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- AddForeignKey
-ALTER TABLE `ProfileImage` ADD CONSTRAINT `ProfileImage_penggunaId_fkey` FOREIGN KEY (`penggunaId`) REFERENCES `Pengguna`(`id`) ON DELETE RESTRICT ON UPDATE CASCADE;
+ALTER TABLE `profileImage` ADD CONSTRAINT `ProfileImage_penggunaId_fkey` FOREIGN KEY (`penggunaId`) REFERENCES `pengguna`(`id`) ON DELETE RESTRICT ON UPDATE CASCADE;

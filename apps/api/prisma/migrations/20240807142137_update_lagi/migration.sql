@@ -15,7 +15,7 @@ ALTER TABLE `document` ADD COLUMN `notadinasId` INTEGER NULL,
 ALTER TABLE `pengguna` MODIFY `posisi` ENUM('STAFF', 'LEADER', 'ASMAN', 'MANAGER', 'Dir_Opersional', 'KOMISARIS', 'CEO') NOT NULL;
 
 -- CreateTable
-CREATE TABLE `Notadinas` (
+CREATE TABLE `notadinas` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
     `name` VARCHAR(191) NOT NULL,
     `code` VARCHAR(191) NOT NULL,
@@ -25,7 +25,7 @@ CREATE TABLE `Notadinas` (
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- AddForeignKey
-ALTER TABLE `Document` ADD CONSTRAINT `Document_productId_fkey` FOREIGN KEY (`productId`) REFERENCES `Product`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
+ALTER TABLE `document` ADD CONSTRAINT `Document_productId_fkey` FOREIGN KEY (`productId`) REFERENCES `product`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
-ALTER TABLE `Document` ADD CONSTRAINT `Document_notadinasId_fkey` FOREIGN KEY (`notadinasId`) REFERENCES `Notadinas`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
+ALTER TABLE `document` ADD CONSTRAINT `Document_notadinasId_fkey` FOREIGN KEY (`notadinasId`) REFERENCES `notadinas`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;

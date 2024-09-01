@@ -5,4 +5,4 @@
 
 */
 -- CreateIndex
-CREATE UNIQUE INDEX `Product_code_key` ON `Product`(`code`);
+CREATE UNIQUE INDEX `Product_code_key` ON `product`(`code`);

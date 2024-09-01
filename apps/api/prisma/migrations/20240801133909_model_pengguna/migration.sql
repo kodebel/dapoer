@@ -8,7 +8,7 @@
 DROP TABLE `samples`;
 
 -- CreateTable
-CREATE TABLE `Pengguna` (
+CREATE TABLE `pengguna` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
     `namaDepan` VARCHAR(191) NOT NULL,
     `namaBelakang` VARCHAR(191) NOT NULL,
