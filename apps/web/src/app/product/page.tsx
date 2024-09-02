@@ -47,7 +47,7 @@ export default function Product() {
             images: [
                 { src: "/images/dapoerkimia/Dabur India Limited.webp", alt: "DABUR INDIA LIMITED", description: "DABUR INDIA LIMITED" },
                 { src: "/images/dapoerkimia/Extrato Vegetal de Mimosa.webp", alt: "EXTRATO VEGETAL DE MIMOSA", description: "EXTRATO VEGETAL DE MIMOSA" },
-                { src: "/images/dapoerkimia/H2SO4 (asam sulfat).webp", alt: "H2SO4 (ASAM SULFAT)", description: "H2SO4 (ASAM SULFAT)" },
+                { src: "/images/dapoerkimia/H2SO4_(asam_sulfat).jpg", alt: "H2SO4 (ASAM SULFAT)", description: "H2SO4 (ASAM SULFAT)" },
                 { src: "/images/dapoerkimia/NaOH1.webp", alt: "NAOH (CAUSTIC SODA FLAKE 48%) EX THAILAND", description: "NAOH (CAUSTIC SODA FLAKE 48%) EX THAILAND" },
                 { src: "/images/dapoerkimia/NaOH2.webp", alt: "NAOH (CAUSTIC SODA FLAKE 48%)", description: "NAOH (CAUSTIC SODA FLAKE 48%)" },
                 { src: "/images/dapoerkimia/Tcca tablet.webp", alt: "TCCA TABLET", description: "TCCA TABLET" }

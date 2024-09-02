@@ -165,7 +165,7 @@ export default function AboutUs() {
                 <section className='flex flex-col md:flex-row justify-between py-5 px-5 md:px-10 gap-5'>
                     <div className='bg-[#d4b185] p-5 md:p-10 flex-1 flex flex-col items-center rounded-lg shadow-md text-[#4a4a4a]' tabIndex={0} aria-labelledby="portfolio1"
                     style={{ backgroundImage: 'url(/images/2backgrounddpng.png)', backgroundSize: 'auto', backgroundPosition: 'center' }}>
-                        <Image src="/images/dokumentasi/APARTEMEN 2.webp" alt="Skyland City Jatinangor Internet Network Management - 2023" width={240} height={320} className='h-80 w-60 rounded-lg shadow-lg' loading="lazy" />
+                        <Image src="/images/APARTEMEN_2.jpeg" alt="Skyland City Jatinangor Internet Network Management - 2023" width={240} height={320} className='h-80 w-60 rounded-lg shadow-lg' loading="lazy" />
                         <p id="portfolio1" className='text-center text-sm py-5 text-[#4a4a4a]'>
                         REVOLUTIONIZING CONNECTIVITY AT SKYLAND CITY JATINANGOR - INTERNET NETWORK MANAGEMENT
                         </p>
