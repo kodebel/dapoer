@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=development ts-node-dev -r tsconfig-paths/register src/index.ts",
     "build": "tsc && tsc-alias",
-    "serve": "cross-env NODE_ENV=production node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prisma": "npx prisma",
+    "start": "node src/index.ts",
     "postinstall": "prisma generate --schema=prisma/schema.prisma"
   },
   "author": "",
